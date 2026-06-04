@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://xn--fitnessnordomdmen-d0b.se/sitemap.xml
+Sitemap: https://www.xn--fitnessnordomdmen-d0b.se/sitemap.xml
